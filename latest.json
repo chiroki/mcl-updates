@@ -1,5 +1,5 @@
 {
-  "version": "0.4.4",
-  "notes": "รายการอัปเดต// ปรับระบบดาวน์โหลดจาก Cloud ให้ทนเน็ตช้ามากขึ้น",
-  "url": "https://github.com/chiroki/mcl-updates/releases/download/v.0.4.4/MCL-Music-Controller-Setup-0.4.4.exe"
+  "version": "0.4.5",
+  "notes": "รายการอัปเดต// แก้ไวไฟหาไม่เจอ แก้โหลดข้อมูลช้า",
+  "url": "https://github.com/chiroki/mcl-updates/releases/download/v0.4.5/MCL-Music-Controller-Setup-0.4.5.exe"
 }
